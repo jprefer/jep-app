@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://app.jprefer.com/</loc>
+  <lastmod>2018-11-27T02:49:35+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://app.jprefer.com/blog/</loc>
+  <lastmod>2018-11-27T02:49:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://app.jprefer.com/posts-by-categories/</loc>
+  <lastmod>2018-11-27T02:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://app.jprefer.com/jekyll/2016/09/24/man-must-explore/</loc>
+  <lastmod>2018-11-27T02:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://app.jprefer.com/jekyll/2016/09/18/i-believe/</loc>
+  <lastmod>2018-11-27T02:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://app.jprefer.com/webmarketing/2016/08/24/science-has-not-yet-mastered-prophecy/</loc>
+  <lastmod>2018-11-27T02:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://app.jprefer.com/jekyll/2016/07/08/failure-is-not-an-option/</loc>
+  <lastmod>2018-11-27T02:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://app.jprefer.com/start/bootstrap/2016/07/01/dreams/</loc>
+  <lastmod>2018-11-27T02:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://app.jprefer.com/jekyll/2016/06/10/dinosaurs/</loc>
+  <lastmod>2018-11-27T02:49:35+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
